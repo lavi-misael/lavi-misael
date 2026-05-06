@@ -4,8 +4,8 @@
 
   ---
   ## 📖 Disciplinas Cursadas:
-  - Lógica de Programação e Algoritmos;
-  - Arquitetura de Redes com IoT;
+  - 💻 Lógica de Programação e Algoritmos;
+  - 🛜 Arquitetura de Redes com IoT;
   - Sistemas Operacionais;
   - Levantamento de Requisitos.
  
